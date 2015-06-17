@@ -40,7 +40,7 @@
 ### [第6回 2015/6/17](https://atnd.org/events/66415)
 
 * Item 25 [@starpoz](https://twitter.com/starpoz)
-* Item 26 [@regenschauer490](https://twitter.com/regenschauer490)
+* [Item 26](http://www.slideshare.net/barfoo102/emc-26) [@regenschauer490](https://twitter.com/regenschauer490)
 * Item 27 [@kariya_mitsuru](https://twitter.com/kariya_mitsuru)
 * Item 28 [@redboltz](https://twitter.com/redboltz)
 
